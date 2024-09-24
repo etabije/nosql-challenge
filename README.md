@@ -26,5 +26,9 @@ Top 5 Establishments with RatingValue of 5: Query for establishments near "Penan
 Establishments with Hygiene Score of 0: Use an aggregation pipeline to count and sort these establishments by Local Authority.
 Deployment and Submission
 
+Sources
 
+Special thanks to the following individuals and resources for their contributions and support:
+
+Professor Melissa Ingle – Lead Instructor, providing valuable guidance and feedback throughout the project. Cassidy Cruz – Classmate, assisting with data analysis and brainstorming. ChatGPT – AI assistant for answering questions, providing code suggestions, and clarifying concepts. Xpert Learning Assistant – Additional learning resource for supplementary support during the project. StackOverflow.com - Another learning source in aiding for this challenge.
 
